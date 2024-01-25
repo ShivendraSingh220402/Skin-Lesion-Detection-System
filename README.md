@@ -11,7 +11,7 @@ The project is organized into multiple files:
 •	It includes the steps for splitting the data into training, testing, and validation sets.
 •	Basic cleaning of the dataset is performed to ensure high-quality input for model training.
 
-2.	ResNet Model (Final_resnet18.ipynb):
+2.	ResNet Model (Final_resnet50.ipynb):
 •	Implementation of a deep neural network using the ResNet architecture.
 •	Training, validation, and testing procedures for the ResNet model are outlined in this notebook.
 

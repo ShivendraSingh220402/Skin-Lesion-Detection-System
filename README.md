@@ -1,4 +1,5 @@
-Skin Lesion Classification Project
+Skin Lesion Detection System
+
 This repository contains a machine learning project for classifying skin lesions into different categories. The project is designed to leverage the 
 HAM 10000 dataset and implement various deep learning models for accurate classification. The models used in this project include ResNet, DenseNet, InceptionV3, and a custom Convolutional Neural Network (CNN).
 

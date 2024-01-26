@@ -51,7 +51,7 @@ Requirements
 •	Other dependencies specified in requirements.txt
 
 Acknowledgments
-•	The HAM 10000 dataset: link
+•	The HAM 10000 dataset: link https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 
 

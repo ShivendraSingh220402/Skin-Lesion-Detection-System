@@ -53,9 +53,7 @@ Requirements
 Acknowledgments
 •	The HAM 10000 dataset: link
 
-Author
-•	Shivendra Singh
-•	Contact: shivendrasingh220402@gmail.com
+
 
 Feel free to fork, modify, and experiment with this project. If you find any issues or have suggestions for improvements, please open an issue.
 Happy coding!
